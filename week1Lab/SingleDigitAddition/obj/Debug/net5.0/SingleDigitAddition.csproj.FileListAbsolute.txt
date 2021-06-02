@@ -1,0 +1,16 @@
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.csproj.AssemblyReference.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.AssemblyInfoInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.AssemblyInfo.cs
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.csproj.CoreCompileInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition.deps.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition.runtimeconfig.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition.runtimeconfig.dev.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/ref/SingleDigitAddition.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/bin/Debug/net5.0/SingleDigitAddition.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/ref/SingleDigitAddition.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SingleDigitAddition/obj/Debug/net5.0/SingleDigitAddition.genruntimeconfig.cache
