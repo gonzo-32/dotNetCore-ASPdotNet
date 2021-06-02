@@ -1,0 +1,16 @@
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/intro/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
