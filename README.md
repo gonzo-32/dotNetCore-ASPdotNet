@@ -1,2 +1,7 @@
-# dotNetCore-ASPdotNet
-Microsoft technologies are widely used. In this class, we will study some of these technologies in the context of web development. In particular, we will cover the C# programming language and the .NET Core framework, and ASP.NET Core web development using MS SQL Server, Entity Framework Core, and the Razor view engine.
+# .Net Core and ASP.NET Core Web Development
+
+## Language: C#
+
+## Textbook
+- Pro C# 9 with .NET 5 by Andrew Troelsen and Philip Japikse.
+- ASP.NET Core in Action by Andrew Lock
