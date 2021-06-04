@@ -8,7 +8,7 @@ namespace SingleDigitAddition
         static void Main(string[] args)
         {
             int min = 0;
-            int max = 10;
+            int max = 11;
 
             while(true) {
                 int num1 = RandomNumber(min, max);

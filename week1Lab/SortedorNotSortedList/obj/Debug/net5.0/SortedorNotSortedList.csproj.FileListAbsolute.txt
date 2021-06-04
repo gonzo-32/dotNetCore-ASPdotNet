@@ -1,0 +1,16 @@
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList.deps.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList.runtimeconfig.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList.runtimeconfig.dev.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/ref/SortedorNotSortedList.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/bin/Debug/net5.0/SortedorNotSortedList.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.csproj.AssemblyReference.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.AssemblyInfoInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.AssemblyInfo.cs
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.csproj.CoreCompileInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/ref/SortedorNotSortedList.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week1Lab/SortedorNotSortedList/obj/Debug/net5.0/SortedorNotSortedList.genruntimeconfig.cache
