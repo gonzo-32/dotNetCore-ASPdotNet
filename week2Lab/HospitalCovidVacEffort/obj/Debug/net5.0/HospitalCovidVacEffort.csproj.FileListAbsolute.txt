@@ -1,0 +1,16 @@
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort.deps.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort.runtimeconfig.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort.runtimeconfig.dev.json
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/ref/HospitalCovidVacEffort.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/bin/Debug/net5.0/HospitalCovidVacEffort.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.csproj.AssemblyReference.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.GeneratedMSBuildEditorConfig.editorconfig
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.AssemblyInfoInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.AssemblyInfo.cs
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.csproj.CoreCompileInputs.cache
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/ref/HospitalCovidVacEffort.dll
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.pdb
+/home/gonzo/NETCore_ASPNET_WebDev/dotNetCore-ASPdotNet/week2Lab/HospitalCovidVacEffort/obj/Debug/net5.0/HospitalCovidVacEffort.genruntimeconfig.cache
