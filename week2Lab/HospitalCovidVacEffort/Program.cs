@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Author: Heriberto Gonzalez
+// CIN: 304751270
+
 namespace HospitalCovidVacEffort
 {
     class Program {
